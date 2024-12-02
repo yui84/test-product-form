@@ -41,6 +41,7 @@ php artisan db:seed
 - MySQL8.0.26
 
 ## ER図
+<img width="694" alt="erg" src="https://github.com/user-attachments/assets/ce3ef03c-bb39-4007-bd54-5c06315be666">
 
 
 ## URL
