@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #f5f4f4;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #DDD;
+}
+
+.app {
+    height: 100%;
+}
+
+.header {
+    background: #fff
+}
+
+.header__heading {
+    margin-left: 24px;
+    font-family: cursive;
+    color: #f1d23aec;
+}
+
+.btn {
+    display: block;
+    padding: 8px 32px;
+    border: none;
+    background: #e9c928;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 0px 5px 5px 0px rgba(139, 121, 105, 0.25);
+}
