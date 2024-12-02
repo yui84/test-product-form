@@ -35,6 +35,11 @@ php artisan migrate
 php artisan db:seed
 ```
 
+8. シンボリックリンクの作成
+``` bash
+php artisan storage:link
+```
+
 ## 使用技術(実行環境)
 - PHP7.4.9
 - Laravel8.83.27
